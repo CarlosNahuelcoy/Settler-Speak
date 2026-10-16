@@ -15,7 +15,7 @@ Ask them to focus on cooking, talk about a stalled workshop, or simply get to kn
 
 ## Download and play
 
-[Download the mod ZIP](https://github.com/CarlosNahuelcoy/Settler-Speak/releases/download/v0.22.2/SettlerSpeak-0.22.2.zip) · [All downloads](https://github.com/CarlosNahuelcoy/Settler-Speak/releases)
+[Download the mod ZIP](https://github.com/CarlosNahuelcoy/Settler-Speak/releases/download/v0.22.3/SettlerSpeak-0.22.3.zip) · [All downloads](https://github.com/CarlosNahuelcoy/Settler-Speak/releases)
 
 Close Bellwright. In Steam select **Manage > Browse local files**. Extract the ZIP and copy its **Bellwright** folder into the game folder, merging the folders. Start normally from Steam. No installer or launcher is needed for this download.
 
@@ -30,3 +30,5 @@ Open Settings from the chat to choose Player2, OpenAI, Gemini, OpenRouter, Novel
 English is the default interface language; Español is the second option. NPC replies follow the language you use. New memories are saved with successful game saves and autosaves.
 
 These downloads contain compiled mod files only. Choose the mod ZIP from Releases, not GitHub's automatically generated Source code archive.
+
+Language: replies follow your latest message, defaulting to English when unclear. An explicit language instruction in the global prompt overrides this. Interface language does not choose the NPC response language.
