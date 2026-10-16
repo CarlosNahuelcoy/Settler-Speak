@@ -1,5 +1,7 @@
 # Settler Speak
 
+![Settler Speak](https://raw.githubusercontent.com/CarlosNahuelcoy/Settler-Speak/main/settler-speak-cover.jpg)
+
 By **Gerik Uylerk**
 
 Give your colonists a voice. Stop for a conversation, ask how they are doing, find out what they were working on, or discuss what your settlement needs.
