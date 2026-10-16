@@ -1,4 +1,4 @@
-# Bellwright Chat
+# Settler Speak
 
 By **Gerik Uylerk**
 
@@ -15,7 +15,7 @@ Ask them to focus on cooking, talk about a stalled workshop, or simply get to kn
 
 ## Download and play
 
-[Download the mod ZIP](https://github.com/CarlosNahuelcoy/Bellwright-Chat/releases/download/v0.22.2/BellwrightChat-0.22.2.zip) · [All downloads](https://github.com/CarlosNahuelcoy/Bellwright-Chat/releases)
+[Download the mod ZIP](https://github.com/CarlosNahuelcoy/Settler-Speak/releases/download/v0.22.2/SettlerSpeak-0.22.2.zip) · [All downloads](https://github.com/CarlosNahuelcoy/Settler-Speak/releases)
 
 Close Bellwright. In Steam select **Manage > Browse local files**. Extract the ZIP and copy its **Bellwright** folder into the game folder, merging the folders. Start normally from Steam. No installer or launcher is needed for this download.
 
