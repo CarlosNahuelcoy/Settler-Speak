@@ -1,23 +1,32 @@
 # Bellwright Chat
 
-By **Gerik Uylerk** — AI conversations with your Bellwright colonists.
+By **Gerik Uylerk**
 
-This repository distributes **compiled mod binaries only**. Source code is not included.
+Give your colonists a voice. Stop for a conversation, ask how they are doing, find out what they were working on, or discuss what your settlement needs.
 
-## Download
+Ask them to focus on cooking, talk about a stalled workshop, or simply get to know the people helping you build your home. Conversations draw on the game information available to the mod, with individual instructions and memories tied to your saved game.
 
-Open [Releases](https://github.com/CarlosNahuelcoy/Bellwright-Chat/releases) and download [BellwrightChat-0.22.2.zip](https://github.com/CarlosNahuelcoy/Bellwright-Chat/releases/download/v0.22.2/BellwrightChat-0.22.2.zip) for the direct edition. The ExOne ZIP is an experimental test package, not the easy-install edition. GitHub-generated “Source code” archives are not the mod download.
+- Talk naturally in your own language.
+- Ask about work, morale and the settlement.
+- Request supported work-priority changes or worker/companion roles.
+- Customize global and individual colonist prompts.
+- Edit, delete or regenerate messages.
+- Choose an English or Spanish interface; your choice is saved.
 
-## Copy and play
+## Download and play
 
-Close Bellwright. In Steam choose **Manage > Browse local files**. Extract the downloaded mod ZIP and copy its **Bellwright** folder into that game directory, merging the folders. `version.dll` must end up beside `BellwrightGame-Win64-Shipping.exe` in `Bellwright/Binaries/Win64`. Start normally from Steam.
+[Download the mod ZIP](https://github.com/CarlosNahuelcoy/Bellwright-Chat/releases/download/v0.22.2/BellwrightChat-0.22.2.zip) · [All downloads](https://github.com/CarlosNahuelcoy/Bellwright-Chat/releases)
 
-No installer, BAT, Modkit or ExOne is required for this edition. Do not overwrite another mod's version.dll. Preserve the existing BellwrightChat folder when updating.
+Close Bellwright. In Steam select **Manage > Browse local files**. Extract the ZIP and copy its **Bellwright** folder into the game folder, merging the folders. Start normally from Steam. No installer or launcher is needed for this download.
 
-English is the default interface language. Español is available as the second option in Settings; Apply saves the selection. Replies follow the language you use with the colonist.
+The supplied `version.dll` belongs beside `BellwrightGame-Win64-Shipping.exe` in `Bellwright/Binaries/Win64`. Do not replace another mod's `version.dll`; keep your existing BellwrightChat data folder when updating.
 
-Configure Player2, OpenAI, Gemini, OpenRouter, NovelAI or a compatible Custom cloud/local endpoint in Settings. Bring your own model/API access. Selected providers receive the conversation and relevant game context.
+The separate ExOne package is available for players who prefer managing the mod with ExOne. Use only one loading method at a time; its archive includes setup instructions.
 
-## Status
+## Make it yours
 
-Experimental prerelease. Native actions and game compatibility are bounded; multiplayer is not claimed. ExOne support is a test candidate pending an actual in-game launch through ExOne. Use only one loading method at a time. See the packaged instructions and licenses.
+Open Settings from the chat to choose Player2, OpenAI, Gemini, OpenRouter, NovelAI or a compatible local/cloud endpoint. Use your own API access or local server. The selected provider receives your conversation and relevant game context.
+
+English is the default interface language; Español is the second option. NPC replies follow the language you use. New memories are saved with successful game saves and autosaves.
+
+These downloads contain compiled mod files only. Choose the mod ZIP from Releases, not GitHub's automatically generated Source code archive.
