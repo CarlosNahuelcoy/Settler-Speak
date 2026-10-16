@@ -6,7 +6,7 @@ This repository distributes **compiled mod binaries only**. Source code is not i
 
 ## Download
 
-Open [Releases](../../releases) and download **BellwrightChat-0.22.2.zip** for the direct edition. The ExOne ZIP is an experimental test package, not the easy-install edition. GitHub-generated “Source code” archives are not the mod download.
+Open [Releases](https://github.com/CarlosNahuelcoy/Bellwright-Chat/releases) and download [BellwrightChat-0.22.2.zip](https://github.com/CarlosNahuelcoy/Bellwright-Chat/releases/download/v0.22.2/BellwrightChat-0.22.2.zip) for the direct edition. The ExOne ZIP is an experimental test package, not the easy-install edition. GitHub-generated “Source code” archives are not the mod download.
 
 ## Copy and play
 
